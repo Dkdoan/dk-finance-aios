@@ -1,0 +1,17 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \"c:/Users/Khanh Doan/Desktop/DK_Finance_AIOS/scripts/hook-send-output.js\"",
+            "timeout": 60,
+            "statusMessage": "Sending output as .docx to dkagents1997@gmail.com..."
+          }
+        ]
+      }
+    ]
+  }
+}

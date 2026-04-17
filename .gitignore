@@ -1,0 +1,12 @@
+# Environment
+.env
+
+# Dependencies
+node_modules/
+
+# Private business data — never publish
+outputs/
+data/
+memory.md
+eval_log.md
+settings.local.json
