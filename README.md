@@ -2,7 +2,7 @@
 
 An open-source Claude Code agent that encodes senior commercial finance judgment into a reusable analytical system. Drop in your data, get WBR-ready output — variance decomposed, story told, actions assigned.
 
-Built by [DK]((https://www.linkedin.com/in/khanh-doan-89254a147/)), VP Finance / Finance AI Transformation.
+Built by [DK]((https://www.linkedin.com/in/khanh-doan-89254a147/)), Finance / Finance AI Transformation.
 
 ---
 
